@@ -2,6 +2,7 @@
 
 ### Circus Lyfe
 ![useful image]({{ site.url }}/assets/cl_intro.png)
+<img src={{ site.url }}/assets/duo backflip.gif  width=440 height=220>
 ![useful image]({{ site.url }}/assets/duo backflip.gif)
 
 Circus Lyfe is a narrative life simulation game for Android devices, created for my senior undergraduate thesis at New College of Florida.
@@ -12,4 +13,4 @@ This is a life simulation game for the mobile platform, where the player takes t
 
 [Download](https://longarms07.itch.io/circus-lyfe)
 
-[![Watch the video](cl_thumbnail.PNG)](https://drive.google.com/file/d/1n0gGlWbxYD6w9KSPWTR0JrK1BjgwMGx4/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1n0gGlWbxYD6w9KSPWTR0JrK1BjgwMGx4/preview" width="640" height="480"></iframe>
