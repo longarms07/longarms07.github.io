@@ -1,1 +1,10 @@
+title: Erik Ridd
+email: ecridd@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Passionate computer science graduate seeking to enter the game 
+  development industry and help create new and exciting experiences. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Longarms07
+github_username:  longarms07
 theme: jekyll-theme-slate
