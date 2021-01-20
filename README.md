@@ -147,8 +147,7 @@ For this project, I implemented the in-app SQLLite question databases as well as
 [Download on Google Play](https://play.google.com/store/apps/details?id=org.flc.staying_healthy.quizapp&hl=en_US&gl=US)
 
 <p float="left">
-	<img src="/assets/flc_home.webp" width=259 height=465>
-	<img src="/assets/flc_quiz.webp" width=259 height=465>
-	<img src="/assets/flc_score.webp" width=259 height=465>
-	<img src="/assets/flc_book.webp" width=259 height=465>
+	<img src="/assets/flc_home.webp" width=210 height=391>
+	<img src="/assets/flc_quiz.webp" width=210 height=391>
+	<img src="/assets/flc_score.webp" width=210 height=391>
 </p>
