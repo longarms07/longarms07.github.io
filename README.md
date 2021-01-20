@@ -96,7 +96,7 @@ Co-Programmer, Room and Puzzle Design
 
 Waking up in an an flower shop with little memory, you must discover why you are there. Explore the shop, solve puzzles to unlock more rooms, and discover why your character keeps blacking out. 
 
-_Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built in a team of 6 (3 programmers, 2 artists, and a composer) over 48 hours for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were the room switching mechanic implementation and putting together the main room and greenhouse.
+_Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built by a team of 6 (3 programmers, 2 artists, and a composer) over 48 hours for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were the room switching implementation and putting together the main room and greenhouse.
 
 [Code](https://github.com/HuntJSparra/GGJ2019)
 
