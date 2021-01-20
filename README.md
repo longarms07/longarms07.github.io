@@ -30,8 +30,6 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 
 July 2020
 
-Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/) and [Laila Kalantari](https://www.linkedin.com/in/laila-kalantari/)
-
 Lead Programmer
 
 In a fantasy realm ruled by a sinister Dark Lord, some people are just trying to get by. Players step into the role of a standard RPG shopkeeper who must tread the fine line of freedom vs profit as they sell their goods to both the chosen hero and their evil ruler. Stock the shop, set the prices, and choose carefully who you sell what to. Selling to the Dark Lord may decrease the hero's chances, but the hero may not have enough gold to keep you in buisness. 
@@ -41,6 +39,8 @@ My primary responsibilities consisted of implementing the primary gameplay loop,
 [Code](https://github.com/HuntJSparra/GMTK2020)
 
 [Play on Itch.io](https://h-labs.itch.io/npc-shop-keep)
+
+Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/) and [Laila Kalantari](https://www.linkedin.com/in/laila-kalantari/) 
 
 <p float="left">
 	<img src="/assets/npc_dl.png" width=318 height=240>
@@ -54,11 +54,35 @@ My primary responsibilities consisted of implementing the primary gameplay loop,
 March 2020 - May 2020
 
 Co-Programmer and Designer
-Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/)
 
 It is the year 1990+30. Hacker culture dominates the world. You step into the role of an up-and-coming hacker, taking on odd jobs and building your skills. Conquer firewalls and prove your keyboard mashing abilities in this 80s and 90s hacker movie inspired game demo.
 
-Not Hack was created in C++ and SFML as the term project for our C++ class. It is avaliable to build and run on Linux enviornments via [Github](https://github.com/longarms07/NotHack). My primary coding responsibilites were the implementation of the timestep, progress bars, the firewall and coolant system, and shared level design responsibilities. 
+Not Hack was created in C++ and SFML as the term project for a C++ class at New College of Florida. It is avaliable to build and run on Linux enviornments via [Github](https://github.com/longarms07/NotHack). My primary coding responsibilites were the implementation of the timestep, progress bars, the firewall and coolant system, and shared level design responsibilities. 
 
 [Code](https://github.com/longarms07/NotHack)
+
+Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/)
+
+### Space Crash - _Ludum Dare 2019 Submission_
+
+<a href="https://longarms07.itch.io/space-crash"><img src="/assets/sc_start.png" width=640 height=480>
+
+October 2019
+
+Co-Programmer, Artist, and Designer
+
+Stranded on a desolate planet as armies of ships fight above you, the only option is to improvise. Dodge missiles, trick enemy ships into destroying each other, and use their wreckage to build your own spaceship and fight back.
+
+This game was created in Unity for WebGL over the course of 48 hours. I implemented the shipbuilding and movement controls, and lead the game's design. 
+
+[Code]()
+
+[Play on Itch.io](https://longarms07.itch.io/space-crash)
+
+Collaboration with [Chief Nelson](https://www.linkedin.com/in/chief-nelson-965a3a180/).
+
+<p float="left">
+	<img src="/assets/sc_build.png" width=318 height=240>
+	<img src="/assets/sc_ship.png" width=318 height=240>
+</p>
 
