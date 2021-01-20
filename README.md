@@ -88,7 +88,7 @@ Collaboration with [Chief Nelson](https://www.linkedin.com/in/chief-nelson-965a3
 
 ### Forget Me Not - _Ringling College of Art and Design Game Jam Submission_
 
-<a download="filename"><img src="/assets/fmn_start.png" width=640 height=480>
+<a download="/assets/Forget Me Not Alpha Build.zip"><img src="/assets/fmn_start.png" width=640 height=480>
 
 January 2019
 
@@ -98,9 +98,13 @@ Waking up in an an flower shop with little memory, you must discover why you are
 
 _Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built in a team of 6 (3 programmers, 2 artists, and a composer) over 48 for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were the room switch implementation and putting together the main room and greenhouse.
 
-<form method="get" action="/assets/Forget Me Not Alpha Build.zip">
-   <button type="submit">Download Forget Me Not</button>
-</form>
+<p float="center">
+	<form method="get" action="/assets/Forget Me Not Alpha Build.zip">
+	   <button type="submit">Download Forget Me Not</button>
+	</form>
+</p>
+
+Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/), [Jordan Deagan](https://www.linkedin.com/in/jordan-deagan-602728179/), [Hugh Roberts](https://www.linkedin.com/in/hugh-roberts-620a291b9/), [Dawn Quedens](https://www.linkedin.com/in/dawn-quedens-4b290316b/), and [Bennett Hanus](https://www.linkedin.com/in/bennett-hanus-168021171/)
 
 <p float="left">
 	<img src="/assets/fmn_safe.png" width=318 height=240>
