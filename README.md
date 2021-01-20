@@ -78,9 +78,6 @@ This game was created in Unity for WebGL over the course of 48 hours. I implemen
 [Code](https://github.com/longarms07/GameJam10_19)
 
 [Play on Itch.io](https://longarms07.itch.io/space-crash)
-<form method="get" action="https://longarms07.itch.io/space-crash">
-   <button type="submit">Play on Itch.io</button>
-</form>
 
 Collaboration with [Chief Nelson](https://www.linkedin.com/in/chief-nelson-965a3a180/).
 
@@ -101,6 +98,8 @@ Waking up in an an flower shop with little memory, you must discover why you are
 
 _Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built in a team of 6 (3 programmers, 2 artists, and a composer) over 48 for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were the room switch implementation and putting together the main room and greenhouse.
 
+[Code](https://github.com/HuntJSparra/GGJ2019)
+
 <form method="get" action="/assets/Forget Me Not Alpha Build.zip">
    <button type="submit">Download Forget Me Not</button>
 </form>
@@ -111,3 +110,24 @@ Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/), [Jordan
 	<img src="/assets/fmn_safe.png" width=318 height=240>
 	<img src="/assets/fmn_flowers.png" width=318 height=240>
 </p>
+
+### Holmes: The Crooked Man
+
+<img src="/assets/h_start.png" width=640 height=480>
+
+August-September 2015
+
+Based on _The Adventure of the Crooked Man_ by Sir Arthur Conan Doyle, play as the legendary Sherlock Holmes as he investigates the strange murder of Colonel James Barclay. Question witnesses, find evidence, and discover the truth of what happened. 
+
+I programmed and created all art assets for the game in OHFRRPGCE, and adapted the dialogue and scenario. This was my first game, created as a project for my high school digital arts class at Dreyfoos School of the Arts. 
+
+<form method="get" action="/assets/er_holmes.zip">
+   <button type="submit">Download Holmes: The Crooked Man for Windows</button>
+</form>
+
+<p float="left">
+	<img src="/assets/h_start.png" width=318 height=240>
+	<img src="/assets/h_outside.png" width=318 height=240>
+</p>
+
+
