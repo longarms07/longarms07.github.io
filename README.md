@@ -132,6 +132,8 @@ I programmed and created all art assets for the game in [OHRRPGCE](https://rpg.h
 
 ## Android Applications
 
+### Staying Healthy Quiz
+
 <iframe src="https://drive.google.com/file/d/1tyeeUXKMCnsYN9TMpHYmCSt1GBfazJdz/preview" width="640" height="480"></iframe>
 
 July 2019 - August 2019
@@ -142,7 +144,7 @@ Do you know how long you should you brush your teeth? Or how your body responds 
 
 Initial work on the app began in the Mobile App Development class at New College of Florida, where we worked in teams to create proof-of-concept prototypes for the FLC. I was chosen to continue development and publish the commercial version of the application.
 
-For this project, I implemented the in-app SQLLite question databases as well as the Firebase account and online score database systems. I designed the UX, put together the quiz flow, and added the ability to read reference material and toggle the Spanish versions of quiz questions. Time management and requirement gathering were also my resonsibilities.
+For this project, I implemented the in-app SQLite question databases as well as the Firebase account and online score database systems. I designed the UX, put together the quiz flow, and added the ability to read reference material and toggle the Spanish versions of quiz questions. Time management and requirement gathering were also my resonsibilities.
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=org.flc.staying_healthy.quizapp&hl=en_US&gl=US)
 
@@ -151,3 +153,21 @@ For this project, I implemented the in-app SQLLite question databases as well as
 	<img src="/assets/flc_quiz.webp" width=210 height=391>
 	<img src="/assets/flc_score.webp" width=210 height=391>
 </p>
+
+### Augmented Aquarium
+
+<video width="640" height="480" controls>
+  <source src="AR Final Video.mp4" type="video/mp4">
+</video>
+
+April 2019 - May 2019
+
+Co-Programmer and Designer
+
+Test your knowledge on the sealife in the Sarasota International Airport! By scanning certain pictures and statues, users can unlock quizes to learn more about the animals there. Completing these quizzes unlocks sea animal puppets you can play around with in Augmented Reality.
+
+Android Studio and ARCore were used to implement this application. This was a group term project for the Intro to AR class at New College of Florida. My primary responsibilities consisted of designing and implementing the quiz and photo detection, as well as collaborating on the general app architecture.
+
+[Code](https://github.com/longarms07/ARAquarium)
+
+Collaboration with [William Pembleton](https://www.linkedin.com/in/william-pembleton/).
