@@ -32,7 +32,7 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 
 July 2020
 
-Collaboration with [Hunt Sparra](https://github.com/HuntJSparra) and Laila Kalantari
+Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/) and [Laila Kalantari](https://www.linkedin.com/in/laila-kalantari/)
 
 Lead Programmer
 
@@ -45,6 +45,6 @@ My primary responsibilities consisted of implementing the primary gameplay loop,
 [Play on Itch.io](https://h-labs.itch.io/npc-shop-keep)
 
 <p float="left">
-	<img src="/assets/npc_dl.png" width=318 height=180>
-	<img src="/assets/npc_shop.png" width=318 height=180>
+	<img src="/assets/npc_dl.png" width=318 height=240>
+	<img src="/assets/npc_store.png" width=318 height=240>
 </p>
