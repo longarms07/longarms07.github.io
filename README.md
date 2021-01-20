@@ -24,8 +24,6 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 	<img src="/assets/duo backflip.gif" width=318 height=180>
 </p>
 
-
-
 ### NPC Shopkeep - _GMTK GAME JAM 2020 Submission_
 
 <a href="https://h-labs.itch.io/npc-shop-keep"><img src="/assets/npc_hero.png" width=640 height=480>
@@ -48,3 +46,19 @@ My primary responsibilities consisted of implementing the primary gameplay loop,
 	<img src="/assets/npc_dl.png" width=318 height=240>
 	<img src="/assets/npc_store.png" width=318 height=240>
 </p>
+
+### NotHack: Weaponized Polymorphic Methods
+
+<iframe src="https://drive.google.com/file/d/1OxqHuHxngfX0CyeQNcCN8CI3I3IPdgcN/preview" width="640" height="480"></iframe>
+
+March 2020 - May 2020
+
+Co-Programmer and Designer
+Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/)
+
+It is the year 1990+30. Hacker culture dominates the world. You step into the role of an up-and-coming hacker, taking on odd jobs and building your skills. Conquer firewalls and prove your keyboard mashing abilities in this 80s and 90s hacker movie inspired game demo.
+
+Not Hack was created in C++ and SFML as the term project for our C++ class. It is avaliable to build and run on Linux enviornments via [Github](https://github.com/longarms07/NotHack). My primary coding responsibilites were the implementation of the timestep, progress bars, the firewall and coolant system, and shared level design responsibilities. 
+
+[Code](https://github.com/longarms07/NotHack)
+
