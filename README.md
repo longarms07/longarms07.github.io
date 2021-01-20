@@ -113,7 +113,7 @@ Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/), [Jordan
 
 ### Holmes: The Crooked Man
 
-<img src="/assets/h_start.png" width=640 height=480>
+<img src="/assets/h_talk.png" width=640 height=480>
 
 August-September 2015
 
@@ -130,4 +130,25 @@ I programmed and created all art assets for the game in OHFRRPGCE, and adapted t
 	<img src="/assets/h_outside.png" width=318 height=240>
 </p>
 
+## Android Applications
 
+<iframe src="https://drive.google.com/file/d/1tyeeUXKMCnsYN9TMpHYmCSt1GBfazJdz/preview" width="640" height="480"></iframe>
+
+July 2019 - August 2019
+
+Primary Developer, Remote Contractor for the Florida Literacy Coalition
+
+Do you know how long you should you brush your teeth? Or how your body responds to stress? Test your health knowledge by taking one of these fun and educational quizzes. Based on the popular Staying Healthy curriculum series, choose from three quiz levels: Easy, Hard or Random, a mix of questions from both levels. The questions change, so take it again and again. Challenge yourself to beat your best score!
+
+Initial work on the app began in the Mobile App Development class at New College of Florida, where we worked in teams to create proof-of-concept prototypes for the FLC. I was chosen to continue development and publish the commercial version of the application.
+
+For this project, I implemented the in-app SQLLite question databases as well as the Firebase account and online score database systems. I designed the UX, put together the quiz flow, and added the ability to read reference material and toggle the Spanish versions of quiz questions. Time management and requirement gathering were also my resonsibilities.
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=org.flc.staying_healthy.quizapp&hl=en_US&gl=US)
+
+<p float="left">
+	<img src="/assets/flc_home.webp">
+	<img src="/assets/flc_quiz.webp">
+	<img src="/assets/flc_score.webp">
+	<img src="/assets/flc_book.webp">
+</p>
