@@ -6,6 +6,7 @@
 <iframe src="https://drive.google.com/file/d/1n0gGlWbxYD6w9KSPWTR0JrK1BjgwMGx4/preview" width="640" height="480"></iframe>
 
 August 2019 - May 2020
+
 Sole Programmer, Designer, Writer, and Artist
 
 Circus Lyfe is a narrative life simulation game for Android devices, created for my senior undergraduate thesis at New College of Florida.
@@ -23,12 +24,16 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 	<img src="/assets/duo backflip.gif" width=318 height=180>
 </p>
 
+
+
 ### NPC Shopkeep - _GMTK GAME JAM 2020 Submission_
 
-<a href="default.asp"><img src="/assets/npc_hero.png" width=640 height=480>
+<a href="https://h-labs.itch.io/npc-shop-keep"><img src="/assets/npc_hero.png" width=640 height=480>
 
 July 2020
+
 Collaboration with [Hunt Sparra](https://github.com/HuntJSparra) and Laila Kalantari
+
 Lead Programmer
 
 In a fantasy realm ruled by a sinister Dark Lord, some people are just trying to get by. Players step into the role of a standard RPG shopkeeper who must tread the fine line of freedom vs profit as they sell their goods to both the chosen hero and their evil ruler. Stock the shop, set the prices, and choose carefully who you sell what to. Selling to the Dark Lord may decrease the hero's chances, but the hero may not have enough gold to keep you in buisness. 
