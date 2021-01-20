@@ -119,7 +119,7 @@ August-September 2015
 
 Based on _The Adventure of the Crooked Man_ by Sir Arthur Conan Doyle, play as the legendary Sherlock Holmes as he investigates the strange murder of Colonel James Barclay. Question witnesses, find evidence, and discover the truth of what happened. 
 
-I programmed and created all art assets for the game in OHFRRPGCE, and adapted the dialogue and scenario. This was my first game, created as a project for my high school digital arts class at Dreyfoos School of the Arts. 
+I programmed and created all art assets for the game in [OHRRPGCE](https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page), and adapted the dialogue and scenario. This was my first game, created as a project for my high school digital arts class at Dreyfoos School of the Arts. 
 
 <form method="get" action="/assets/er_holmes.zip">
    <button type="submit">Download Holmes: The Crooked Man for Windows</button>
@@ -147,8 +147,8 @@ For this project, I implemented the in-app SQLLite question databases as well as
 [Download on Google Play](https://play.google.com/store/apps/details?id=org.flc.staying_healthy.quizapp&hl=en_US&gl=US)
 
 <p float="left">
-	<img src="/assets/flc_home.webp">
-	<img src="/assets/flc_quiz.webp">
-	<img src="/assets/flc_score.webp">
-	<img src="/assets/flc_book.webp">
+	<img src="/assets/flc_home.webp" width=259 height=465>
+	<img src="/assets/flc_quiz.webp" width=259 height=465>
+	<img src="/assets/flc_score.webp" width=259 height=465>
+	<img src="/assets/flc_book.webp" width=259 height=465>
 </p>
