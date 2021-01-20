@@ -98,7 +98,7 @@ Waking up in an an flower shop with little memory, you must discover why you are
 
 _Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built in a team of 6 (3 programmers, 2 artists, and a composer) over 48 for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were the room switch implementation and putting together the main room and greenhouse.
 
-<p float="center">
+<p align="center">
 	<form method="get" action="/assets/Forget Me Not Alpha Build.zip">
 	   <button type="submit">Download Forget Me Not</button>
 	</form>
