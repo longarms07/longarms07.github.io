@@ -11,9 +11,11 @@ This is a life simulation game for the mobile platform, where the player takes t
 
 Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Spinner version 1.1. I wrote the game's story and dialogue, created art assets, designed, and implemented the game over the course of a year.
 
-[Code](https://github.com/longarms07/Thesis_Circus_Lyfe)		
+[Code](https://github.com/longarms07/Thesis_Circus_Lyfe)
+
 [Download on Itch.io](https://longarms07.itch.io/circus-lyfe)
 
-
-<img src="/assets/cl_intro.png" width=320 height=180>
-<img src="/assets/duo backflip.gif" width=320 height=180>
+<p float="left">
+	<img src="/assets/cl_intro.png" width=320 height=180>
+	<img src="/assets/duo backflip.gif" width=320 height=180>
+</p>
