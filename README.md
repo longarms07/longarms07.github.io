@@ -78,6 +78,9 @@ This game was created in Unity for WebGL over the course of 48 hours. I implemen
 [Code](https://github.com/longarms07/GameJam10_19)
 
 [Play on Itch.io](https://longarms07.itch.io/space-crash)
+<form method="get" action="https://longarms07.itch.io/space-crash">
+   <button type="submit">Play on Itch.io</button>
+</form>
 
 Collaboration with [Chief Nelson](https://www.linkedin.com/in/chief-nelson-965a3a180/).
 
@@ -98,11 +101,9 @@ Waking up in an an flower shop with little memory, you must discover why you are
 
 _Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built in a team of 6 (3 programmers, 2 artists, and a composer) over 48 for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were the room switch implementation and putting together the main room and greenhouse.
 
-<p align="center">
-	<form method="get" action="/assets/Forget Me Not Alpha Build.zip">
-	   <button type="submit">Download Forget Me Not</button>
-	</form>
-</p>
+<form method="get" action="/assets/Forget Me Not Alpha Build.zip">
+   <button type="submit">Download Forget Me Not</button>
+</form>
 
 Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/), [Jordan Deagan](https://www.linkedin.com/in/jordan-deagan-602728179/), [Hugh Roberts](https://www.linkedin.com/in/hugh-roberts-620a291b9/), [Dawn Quedens](https://www.linkedin.com/in/dawn-quedens-4b290316b/), and [Bennett Hanus](https://www.linkedin.com/in/bennett-hanus-168021171/)
 
