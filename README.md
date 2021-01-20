@@ -16,6 +16,6 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 [Download on Itch.io](https://longarms07.itch.io/circus-lyfe)
 
 <p float="left">
-	<img src="/assets/cl_intro.png" width=320 height=180>
-	<img src="/assets/duo backflip.gif" width=320 height=180>
+	<img src="/assets/cl_intro.png" width=318 height=180>
+	<img src="/assets/duo backflip.gif" width=318 height=180>
 </p>
