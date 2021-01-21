@@ -24,7 +24,7 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 	<img src="/assets/duo backflip.gif" width=318 height=180>
 </p>
 
-### NPC Shopkeep - _GMTK GAME JAM 2020 Submission_
+### NPC Shopkeep - _GMTK Game Jam 2020 Submission_
 
 <a href="https://h-labs.itch.io/npc-shop-keep"><img src="/assets/npc_hero.png" width=640 height=480>
 
