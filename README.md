@@ -199,7 +199,7 @@ May 2019 - July 2019
 
 Backend Unity Developer, Intern
 
-In collaboration with [CSU METEC](https://energy.colostate.edu/metec/), we developed a prototype application for the Microsoft Hololens to aid in oilfield leak detection and repair. The app allowed users to leave virtual persistent tags and bounding boxes on speific components or areas of interest. Tags can be written to using dictation and minimize when not the user's gaze focus.
+In collaboration with [CSU METEC](https://energy.colostate.edu/metec/), we developed a prototype AR application for the Microsoft Hololens to aid in oilfield leak detection and repair. The app allowed users to leave virtual persistent tags and bounding boxes on speific components or areas of interest. Tags can be written to using dictation and minimize when not the user's gaze focus.
 
 My primary contributions were devloping the tag serialization and persistence system and implementing the speech-to-text. The application was developed in Unity. 
 
