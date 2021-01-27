@@ -187,6 +187,27 @@ As a Graduate Research Assistant at CSU, I lead the development of this project 
 To learn more about this project and its current status, please contact the [CSU NUILab](https://nuilab.org/).
 
 <p float="left">
-	<img src="/assets/fox_rotation.png" width=318 height=240>
-	<img src="/assets/fox_move.png" width=318 height=240>
+	<img src="/assets/fox_rotation.png" width=318 height=220>
+	<img src="/assets/fox_move.png" width=318 height=220>
+</p>
+
+### METEC Marker Project
+
+<img src="/assets/20190725_101725_HoloLens.jpg" width=640 height=480>
+
+May 2019 - July 2019
+
+Backend Unity Developer, Intern
+
+In collaboration with [CSU METEC](https://energy.colostate.edu/metec/), we developed a prototype application for the Microsoft Hololens to aid in oilfield leak detection and repair. The app allowed users to leave virtual persistent tags and bounding boxes on speific components or areas of interest. Tags can be written to using dictation and minimize when not the user's gaze focus.
+
+My primary contributions were devloping the tag serialization and persistence system and implementing the speech-to-text. The application was developed in Unity. 
+
+To learn more about this project and its current status, please contact the [CSU NUILab](https://nuilab.org/).
+
+Collaboration with Prashast Sharma
+
+<p float="left">
+	<img src="/assets/20190725_101637_HoloLens.jpg" width=318 height=220>
+	<img src="/assets/20190725_101646_HoloLens.jpg" width=318 height=220>
 </p>
