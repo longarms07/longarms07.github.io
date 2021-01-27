@@ -24,7 +24,7 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 	<img src="/assets/duo backflip.gif" width=318 height=180>
 </p>
 
-### NPC Shopkeep - _GMTK GAME JAM 2020 Submission_
+### NPC Shopkeep - _GMTK Game Jam 2020 Submission_
 
 <a href="https://h-labs.itch.io/npc-shop-keep"><img src="/assets/npc_hero.png" width=640 height=480>
 
@@ -96,7 +96,7 @@ Co-Programmer, Room and Puzzle Design
 
 Waking up in an an flower shop with little memory, you must discover why you are there. Explore the shop, solve puzzles to unlock more rooms, and discover why your character keeps blacking out. 
 
-_Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built in a team of 6 (3 programmers, 2 artists, and a composer) over 48 for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were the room switch implementation and putting together the main room and greenhouse.
+_Forget Me Not_ was implemented in Unity and is playable on Windows Machines. It was built by a team of 6 (3 programmers, 2 artists, and a composer) over 48 hours for the Ringling College of Art and Design's Spring 2019 game jam. My primary responsibilities were implementing the room switching mechanic and putting together the main room and greenhouse.
 
 [Code](https://github.com/HuntJSparra/GGJ2019)
 
