@@ -187,13 +187,13 @@ As a Graduate Research Assistant at CSU, I lead the development of this project 
 To learn more about this project and its current status, please contact the [CSU NUILab](https://nuilab.org/).
 
 <p float="left">
-	<img src="/assets/fox_rotation.png" width=318 height=220>
-	<img src="/assets/fox_move.png" width=318 height=220>
+	<img src="/assets/fox_rotation.png" width=318 height=210>
+	<img src="/assets/fox_move.png" width=318 height=210>
 </p>
 
 ### METEC Marker Project
 
-<img src="/assets/20190725_101725_HoloLens.jpg" width=640 height=480>
+<img src="/assets/20190725_101646_HoloLens.jpg" width=640 height=480>
 
 May 2019 - July 2019
 
@@ -209,5 +209,5 @@ Collaboration with Prashast Sharma
 
 <p float="left">
 	<img src="/assets/20190725_101637_HoloLens.jpg" width=318 height=220>
-	<img src="/assets/20190725_101646_HoloLens.jpg" width=318 height=220>
+	<img src="/assets/20190725_101725_HoloLens.jpg" width=318 height=220>
 </p>
