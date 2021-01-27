@@ -169,3 +169,24 @@ Android Studio and ARCore were used to implement this application. This was a gr
 [Code](https://github.com/longarms07/ARAquarium)
 
 Collaboration with [William Pembleton](https://www.linkedin.com/in/william-pembleton/).
+
+## Colorado State University Research
+
+### Foxworld
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l1Sqg_5PD4k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+June 2020 - January 2021
+
+Programmer, Graduate Research Assistant
+
+Childhood development assessment is a field with high demand, but there is a shortage of tools to assist therapists making access hard to come by. Foxworld is a CSU research project aiming to test the effectiveness of virtual embodied avatars in childhood development assessment tools. Ideally, the tools that result from this research will help make assessment more accessible and help therapists perform it. This project is funded by DARPA, and research is ongoing.
+
+As a Graduate Research Assistant at CSU, I lead the development of this project as the sole programmer during 2020. The project was developed in Untiy and built for WebGL. For early webcam gesture recognition prototypes, I worked with OpenCV and ML-based pose recognition frameworks like EpipolarPose. I also designed and implemented several tasks within the program, such as the "Gesture Elicitation" section that will help researchers learn what mid-air gestures children naturally perform to manipulate 3D objects. 
+
+To learn more about this project and its current status, please contact the [CSU NUILab](https://nuilab.org/).
+
+<p float="left">
+	<img src="/assets/fox_rotation.png" width=318 height=240>
+	<img src="/assets/fox_move.png" width=318 height=240>
+</p>
