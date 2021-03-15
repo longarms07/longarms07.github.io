@@ -117,6 +117,8 @@ Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/), [Jordan
 
 August-September 2015
 
+Artist, Programmer
+
 Based on _The Adventure of the Crooked Man_ by Sir Arthur Conan Doyle, play as the legendary Sherlock Holmes as he investigates the strange murder of Colonel James Barclay. Question witnesses, find evidence, and discover the truth of what happened. 
 
 I programmed and created all art assets for the game in [OHRRPGCE](https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page), and adapted the dialogue and scenario. This was my first game, created as a project for my high school digital arts class at Dreyfoos School of the Arts. 
@@ -162,7 +164,7 @@ April 2019 - May 2019
 
 Co-Programmer and Designer
 
-Test your knowledge on the sealife in the Sarasota International Airport! By scanning certain pictures and statues, users can unlock quizes to learn more about the animals there. Completing these quizzes unlocks sea animal puppets you can play around with in Augmented Reality.
+Test your knowledge on the sealife in the Sarasota International Airport! By scanning certain pictures and statues, users can unlock quizzes to learn more about the animals there. Completing these quizzes unlocks sea animal puppets you can play around with in Augmented Reality.
 
 Android Studio and ARCore were used to implement this application. This was a group term project for the Intro to AR class at New College of Florida. My primary responsibilities consisted of designing and implementing the quiz and photo detection, as well as collaborating on the general app architecture.
 
@@ -182,7 +184,7 @@ Programmer, Graduate Research Assistant
 
 Childhood development assessment is a field with high demand, but there is a shortage of tools to assist therapists making access hard to come by. Foxworld is a CSU research project aiming to test the effectiveness of virtual embodied avatars in childhood development assessment tools. Ideally, the tools that result from this research will help make assessment more accessible and help therapists perform it. This project is funded by DARPA, and research is ongoing.
 
-As a Graduate Research Assistant at CSU, I lead the development of this project as the sole programmer during 2020. The project was developed in Untiy and built for WebGL. For early webcam gesture recognition prototypes, I worked with OpenCV and ML-based pose recognition frameworks like EpipolarPose. I also designed and implemented several tasks within the program, such as the "Gesture Elicitation" section that will help researchers learn what mid-air gestures children naturally perform to manipulate 3D objects. 
+As a Graduate Research Assistant at CSU, I lead the development of this project as the sole programmer during 2020. The project was developed in Unity and built for WebGL. For early webcam gesture recognition prototypes, I worked with OpenCV and ML-based pose recognition frameworks like EpipolarPose. I also designed and implemented several tasks within the program, such as the "Gesture Elicitation" section that will help researchers learn what mid-air gestures children naturally perform to manipulate 3D objects. 
 
 To learn more about this project and its current status, please contact the [CSU NUILab](https://nuilab.org/).
 
