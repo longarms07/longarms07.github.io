@@ -24,6 +24,31 @@ Circus Lyfe was written in Unity 2019.3.3f1, using a modified version of Yarn Sp
 	<img src="/assets/duo backflip.gif" width=318 height=180>
 </p>
 
+
+### Loaded Dice - _GMTK Game Jam 2022 Submission_
+
+<a href="https://h-labs.itch.io/loaded-dice"><img src="/assets/ldthumbnail.PNG" width=640 height=480>
+	
+July 2022
+
+UI Programmer
+
+Shoot dice in this game of reverse Russian roulette. Each roll has a different effect that you can use to tilt the odds in your favor. Draw a blank and you'll be eliminated. Be the last one standing!
+
+My primary responsibilities included design, UI, and menu programming. The game was implemented in Unity for WebGl over the course of 72 hours.
+
+[Code](https://github.com/longarms07/GMTK2022)
+
+[Play on Itch.io](https://h-labs.itch.io/loaded-dice)
+
+Collaboration with [Hunt Sparra](https://www.linkedin.com/in/hjsparra/), [Laila Kalantari](https://www.linkedin.com/in/laila-kalantari/), and [Story](https://www.twitch.tv/storyhasatwitch) 
+
+<p float="left">
+	<img src="/assets/ld_chamber.png" width=318 height=180>
+	<img src="/assets/ld_effect.PNG" width=318 height=180>
+</p>
+
+
 ### NPC Shopkeep - _GMTK Game Jam 2020 Submission_
 
 <a href="https://h-labs.itch.io/npc-shop-keep"><img src="/assets/npc_hero.png" width=640 height=480>
